@@ -8,10 +8,11 @@ public class Application2 {
          *
          * -- 출력 예시 --
          * abcdefghijklmnopqrstuvwxyz
+         *
          * */
-
         for (char a = 'a'; a <= 'z'; a++) {
             System.out.print(a);
         }
     }
+
 }
