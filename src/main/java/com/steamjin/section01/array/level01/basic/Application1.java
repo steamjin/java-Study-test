@@ -7,7 +7,7 @@ public class Application1 {
          * */
         int[] arr = new int[10];
         for ( int i = 0; i < arr.length; i++) {
-            System.out.println(i);
+            System.out.print(i);
         }
     }
 }
